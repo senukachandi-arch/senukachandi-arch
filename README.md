@@ -17,10 +17,9 @@
 
 <p align="center">
   <b>Full-stack learner and creator. I build apps, websites and ideas. If I can't explain it in a sharp second, I haven't finished building it.</b>
-</p>
-
+  
 <p align="center">
-  <a href="#-how-i-got-here">About</a> • <a href="#-things-ive-shipped">Projects</a> • <a href="#-what-i-build-with">Skills</a> • <a href="#-lets-connect">Contact</a>
+  <a href="#how-i-got-here">About</a> • <a href="#things-ive-shipped">Projects</a> • <a href="#what-i-build-with">Skills</a> • <a href="#got-something-to-build">Contact</a>
 </p>
 
 ---
