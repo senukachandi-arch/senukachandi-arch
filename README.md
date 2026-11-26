@@ -83,27 +83,6 @@ Helped juniors with practical sessions and guided them<br/><br/>
 
 ---
 
-### 📊 GITHUB STATS - VIDEO එකේ වගේ LIVE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senukachandiw&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFD500&icon_color=FFD500&text_color=FFFFFF&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senukachandiw&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFD500&text_color=FFFFFF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senukachandiw&theme=dark&hide_border=true&background=000000&ring=FFD500&fire=FFD500&currStreakLabel=FFFFFF" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senukachandiw&bg_color=000000&color=FFD500&line=FFD500&point=FFFFFF&area=true&hide_border=true" width="48%" />
-</p>
-
-<!-- SNAKE ANIMATION - VIDEO එකේ අන්තිමට තියෙනවා වගේ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/senukachandiw/senukachandiw/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
-<p align="center"><i>👆 මේ Snake එක වැඩ කරන්න, පහල තියෙන Step එක කරන්න ඕනේ</i></p>
-
----
-
 ### 🏏 EXTRACURRICULAR
 
 - 🏏 Cricket Team - Prince of Wales' College | 2017 - 2020
