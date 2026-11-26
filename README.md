@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/senukachandiw"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/senukachandi-arch"><img src="https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=senukachandiw&color=FFD500&style=flat-square&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/FROM-BENTHOTA-FFD500?style=flat-square" />
 </p>
