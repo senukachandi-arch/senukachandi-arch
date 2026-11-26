@@ -33,8 +33,7 @@
 | :--- | :--- |
 | **2022** | G.C.E. O/L - **8 A's & 1 B** - Prince of Wales' College, Moratuwa |
 | **2025** | G.C.E. A/L - Physics B, Biology C, Chemistry C. Organized Quiz Competition for Science Day |
-| **2026** | Certificate in Professional English & IT - Aquinas College. Certificate in Web Development - DP Education. Organized Practical Camp for Junior A/L Students |
-| **NOW** | Building **SafeRide** - Galle Road Safety App + Learning HTML, CSS & JavaScript |
+| **NOW** | Certificate in Professional English & IT - Aquinas College. Certificate in Web Development - DP Education. Organized Practical Camp for Junior A/L Students |
 
 ---
 
@@ -85,6 +84,7 @@ Helped juniors with practical sessions and guided them<br/><br/>
 
 ### 💪 EXTRACURRICULAR
 
+- 🏏 Cricket Team - Prince of Wales' College | 2017 - 2019
 - ⚽ Football Team - Prince of Wales' College | 2017 - 2018
 - 🔬 Science Society - Prince of Wales' College | 2019 - 2025
 
