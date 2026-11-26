@@ -18,6 +18,7 @@
 
 <p align="center" width="800px">
   <b>Full-stack learner and creator. I build apps, websites and ideas. If I can't explain it in a sharp second, I haven't finished building it.</b>
+</p>
   
 <p align="center">
   <a href="#about">About</a> • <a href="#projects">Projects</a> • <a href="#skills">Skills</a> • <a href="#contact">Contact</a>
