@@ -19,11 +19,12 @@
   <b>Full-stack learner and creator. I build apps, websites and ideas. If I can't explain it in a sharp second, I haven't finished building it.</b>
   
 <p align="center">
-  <a href="#how-i-got-here">About</a> • <a href="#things-ive-shipped">Projects</a> • <a href="#what-i-build-with">Skills</a> • <a href="#got-something-to-build">Contact</a>
+  <a href="#about">About</a> • <a href="#projects">Projects</a> • <a href="#skills">Skills</a> • <a href="#contact">Contact</a>
 </p>
 
 ---
 
+<a id="about"></a>
 ### 👋 HOW I GOT HERE
 
 > I'm a student of Aquinas College following Professional English & IT. Completed O/L and A/L in Biology stream, developing strong analytical and learning skills. Currently learning web development with HTML & CSS. Quick learner with good English communication, teamwork, and time management.
@@ -36,6 +37,7 @@
 
 ---
 
+<a id="projects"></a>
 ### 🚀 THINGS I'VE SHIPPED
 
 > Three projects I use every day and three ideas that live on my desk.
@@ -65,6 +67,7 @@ Helped juniors with practical sessions and guided them<br/><br/>
 
 ---
 
+<a id="skills"></a>
 ### 🛠️ WHAT I BUILD WITH
 
 **Software**
@@ -89,6 +92,7 @@ Helped juniors with practical sessions and guided them<br/><br/>
 
 ---
 
+<a id="contact"></a>
 ### 📩 GOT SOMETHING TO BUILD?
 
 <h2 align="center">I take on apps, websites and ideas. Let's build it.</h2>
