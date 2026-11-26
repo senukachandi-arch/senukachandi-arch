@@ -83,9 +83,8 @@ Helped juniors with practical sessions and guided them<br/><br/>
 
 ---
 
-### 🏏 EXTRACURRICULAR
+### 💪 EXTRACURRICULAR
 
-- 🏏 Cricket Team - Prince of Wales' College | 2017 - 2020
 - ⚽ Football Team - Prince of Wales' College | 2017 - 2018
 - 🔬 Science Society - Prince of Wales' College | 2019 - 2025
 
