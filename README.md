@@ -98,4 +98,3 @@ Helped juniors with practical sessions and guided them<br/><br/>
 <p align="center">
   <a href="mailto:senukachandiw0@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FFD500?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/senukachandiw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/senukachandiw"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></
