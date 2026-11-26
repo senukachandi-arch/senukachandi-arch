@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/FROM-BENTHOTA-FFD500?style=flat-square" />
 </p>
 
-<p align="center">
+<p align="center" width="800px">
   <b>Full-stack learner and creator. I build apps, websites and ideas. If I can't explain it in a sharp second, I haven't finished building it.</b>
   
 <p align="center">
